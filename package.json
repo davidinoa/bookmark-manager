@@ -12,7 +12,6 @@
     "check": "biome check"
   },
   "dependencies": {
-    "@clerk/clerk-react": "^5.49.0",
     "@convex-dev/react-query": "0.0.0-alpha.11",
     "@netlify/vite-plugin-tanstack-start": "^1.0.2",
     "@radix-ui/react-label": "^2.1.8",
